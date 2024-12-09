@@ -49,6 +49,9 @@ This project demonstrates real-time detection of **American Sign Language (ASL)*
 |-- requirements.txt         # Required Python libraries
 |-- README.md                # Project documentation
 ```
+## Output Images
+![Preview 1](output1.png)
+![Preview 1](output2.png)
 
 ## Future Enhancements
 - Expand the dataset to include more gestures for a larger vocabulary.
