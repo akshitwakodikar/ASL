@@ -60,4 +60,4 @@ This project demonstrates real-time detection of **American Sign Language (ASL)*
 - Open-source contributors for providing datasets and tools.
 
 ## Contact
-For any questions or feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akshitwakodikar) or open an issue on GitHub.
+For any questions or feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akshit-wakodikar03/) or open an issue on GitHub.
